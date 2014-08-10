@@ -80,7 +80,7 @@
 			}
 		</style>
 	</head>
-	<body>
+	<body bgcolor="#FFC">
 		<h1>Welcome to Grails</h1>
 			
 			<p>${p}</p>
