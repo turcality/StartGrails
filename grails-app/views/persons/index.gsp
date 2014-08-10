@@ -80,7 +80,7 @@
 			}
 		</style>
 	</head>
-	<body>
+	<body bgcolor="#000">
 		<h1>Start Grails</h1>
 		<g:form action="show">
 			<table border="0">
