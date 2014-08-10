@@ -1,0 +1,4 @@
+StartGrails
+===========
+
+Test in Grails
